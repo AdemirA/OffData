@@ -1,0 +1,13 @@
+.DS_Store
+node_modules/
+.env
+.env.local
+dist/
+out/
+.next/
+.firebase/
+.firebaserc
+firebase-debug.log
+firebase-debug.*.log
+*.log
+coverage/
